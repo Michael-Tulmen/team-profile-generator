@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "As a manager you want to be able to statically keep track of your team members and their information.  This is an app through node.js that allows for managers to review their team's names and information",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael-Tulmen/team-profile-generator.git"
+  },
+  "author": "Michael Tulmen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Michael-Tulmen/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/Michael-Tulmen/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0"
+  }
+}
