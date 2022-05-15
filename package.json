@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Michael-Tulmen/team-profile-generator#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "inquirer": "^8.2.4",
     "jest": "^28.1.0"
   }
